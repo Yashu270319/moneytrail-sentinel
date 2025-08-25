@@ -1,0 +1,8 @@
+pandas
+networkx
+matplotlib
+schedule
+python-dotenv
+loguru
+streamlit
+streamlit-autorefresh
